@@ -1,4 +1,6 @@
-[Ll]ibrary/
+[Ll]ibrary/ScriptAssemblies/
+[Ll]ibrary/cache/
+[Ll]ibrary/previews/
 [Tt]emp/
 [Oo]bj/
 
@@ -6,3 +8,4 @@
 *.csproj
 *.unityproj
 *.sln
+*.userprefs
